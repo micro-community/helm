@@ -2,10 +2,12 @@ name: Release Charts
 
 on:
   push:
-    branches-ignore:
-      - '**'
-    tags:
-      - 'v*.*.*'
+    branches:
+      - 'main'
+    # branches-ignore:
+    #   - '**'
+    # tags:
+    #   - 'v*.*.*'
 
 jobs:
   release:
