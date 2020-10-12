@@ -126,6 +126,8 @@ spec:
           value: kubernetes
         - name: MICRO_PROXY
           value: "network.micro.svc.cluster.local:8443"
+        - name: MICRO_SERVER_IMAGE
+          value: "{{ .Values.image.repo }}:{{ .Values.image.tag }}"
         args:
         - server
         image: "{{ .Values.image.repo }}:{{ .Values.image.tag }}"
