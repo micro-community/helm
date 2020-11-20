@@ -3,7 +3,7 @@ name: micro
 description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetes in one command.
 type: application
 appVersion: 3.0.0
-version: 1.1.0
+version: 1.1.1
 home: https://micro.mu
 keywords:
 - service-mesh
