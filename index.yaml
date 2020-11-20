@@ -3,6 +3,16 @@ entries:
   micro:
   - apiVersion: v2
     appVersion: 3.0.0
+    created: "2020-11-20T11:49:59.847547016Z"
+    description: A Helm chart for deploying Micro on Kubernetes
+    digest: d1cbc76478573e7096a42813178583a13358f0a93af3e581da09357cde27f504
+    name: micro
+    type: application
+    urls:
+    - https://github.com/micro/helm/releases/download/micro-1.0.4/micro-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
+    appVersion: 3.0.0
     created: "2020-11-20T11:47:31.395200801Z"
     description: A Helm chart for deploying Micro on Kubernetes
     digest: 23872ab2fee4cb618ef9679d6fe9c7973941f03ca9f2b8542362de88d2a322ab
