@@ -5,8 +5,10 @@ Micro is an open source platform for API backend development, cloud native appli
 ## Overview
 
 Micro can be installed onto a Kubernetes cluster using helm. Micro will be deployed in full and leverage zero-dep implementations 
-designed for Kubernetes. For exampl, the Micro Store service will internally leverage a file store on a persistent volume, meaning 
+designed for Kubernetes. For example, the Micro Store service will internally leverage a file store on a persistent volume, meaning 
 there are no infrastructure dependencies required.
+
+<img src="https://micro.mu/images/micro-3.0.png" />
 
 ## Dependencies
 
