@@ -38,6 +38,22 @@ Micro exposes a HTTP API on port 8080 and a gRPC proxy on port 8081 for remote a
 
 By port forwarding we'll make our "local" env micro running on kubernetes.
 
+### Install CLI
+Download and install the binary locally for the CLI
+
+```
+# MacOS
+curl -fsSL https://raw.githubusercontent.com/micro/micro/master/scripts/install.sh | /bin/bash
+
+# Linux
+wget -q  https://raw.githubusercontent.com/micro/micro/master/scripts/install.sh -O - | /bin/bash
+
+# Windows
+powershell -Command "iwr -useb https://raw.githubusercontent.com/micro/micro/master/scripts/install.ps1 | iex"
+```
+
+### Port Forward
+
 ```
 # port forward to the proxy
 kubectl port-forward svc/proxy -n micro 8081:443
@@ -51,6 +67,7 @@ kubectl port-forward svc/api -n micro 8080:443
 # curl to config api usage
 curl -I http://localhost:8080/registry/ListServices
 ```
+
 
 ## Community
 
