@@ -23,3 +23,7 @@ Uninstall micro with the following commands:
 helm uninstall micro
 helm repo remove micro
 ```
+
+## Artifac tHub
+
+Micro is available via [Artifact Hub](https://artifacthub.io/packages/helm/micro/micro)
