@@ -11,7 +11,7 @@ You will need to be connected to a Kubernetes cluster
 Install micro with the following commands:
 
 ```shell
-helm repo add micro https://micro.github.io/helm
+helm repo add micro https://micro-community.github.io/helm
 helm install micro micro/micro
 ```
 
