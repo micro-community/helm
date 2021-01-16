@@ -24,6 +24,6 @@ helm uninstall micro
 helm repo remove micro
 ```
 
-## Artifac tHub
+## Artifact Hub
 
-Micro is available via [Artifact Hub](https://artifacthub.io/packages/helm/micro/micro)
+Micro official verion is available via [Artifact Hub](https://artifacthub.io/packages/helm/micro/micro)
