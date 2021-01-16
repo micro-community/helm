@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 3.0.1
     created: "2020-11-22T07:43:36.447050705Z"
-    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetes in one command.
+    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetess in one command.
     digest: 08c0470a64e27a4edf43854d9951b503b3dcd6827ceb0bbd633ac7caf095a7bf
     home: https://micro.mu
     icon: https://avatars2.githubusercontent.com/u/5161210
@@ -18,15 +18,15 @@ entries:
       url: https://micro.mu/
     name: micro
     sources:
-    - https://github.com/micro/micro
+    - https://github.com/micro-community/micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.1.3/micro-1.1.3.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.1.3/micro-1.1.3.tgz
     version: 1.1.3
   - apiVersion: v2
     appVersion: 3.0.1
     created: "2020-11-22T07:39:21.968017239Z"
-    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetes in one command.
+    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetess in one command.
     digest: a868f52c20d4b71208cd4a2d8de078129deee4c7d746eafa1fd8c69ede14f420
     home: https://micro.mu
     icon: https://avatars2.githubusercontent.com/u/5161210
@@ -40,15 +40,15 @@ entries:
       url: https://micro.mu/
     name: micro
     sources:
-    - https://github.com/micro/micro
+    - https://github.com/micro-community/micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.1.2/micro-1.1.2.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.1.2/micro-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-11-20T12:26:08.752477108Z"
-    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetes in one command.
+    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetess in one command.
     digest: 17e1e239e21b57a746f45834a77c6c9a3402939792ce890f9034bc6f8e251afd
     home: https://micro.mu
     icon: https://avatars2.githubusercontent.com/u/5161210
@@ -62,15 +62,15 @@ entries:
       url: https://micro.mu/
     name: micro
     sources:
-    - https://github.com/micro/micro
+    - https://github.com/micro-community/micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.1.1/micro-1.1.1.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.1.1/micro-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-11-20T12:21:12.852090069Z"
-    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetes in one command.
+    description: Micro is a platform for cloud native microservices development. Install Micro on Kubernetess in one command.
     digest: f1e77433fefa58ed6853e2887493da70cea7f398aee0cc06c7684c252baafd6d
     home: https://micro.mu
     icon: https://avatars2.githubusercontent.com/u/5161210
@@ -84,59 +84,59 @@ entries:
       url: https://micro.mu/
     name: micro
     sources:
-    - https://github.com/micro/micro
+    - https://github.com/micro-community/micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.1.0/micro-1.1.0.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.1.0/micro-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-11-20T11:49:59.847547016Z"
-    description: A Helm chart for deploying Micro on Kubernetes
+    description: A Helm chart for deploying Micro on Kubernetess
     digest: d1cbc76478573e7096a42813178583a13358f0a93af3e581da09357cde27f504
     name: micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.0.4/micro-1.0.4.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.0.4/micro-1.0.4.tgz
     version: 1.0.4
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-11-20T11:47:31.395200801Z"
-    description: A Helm chart for deploying Micro on Kubernetes
+    description: A Helm chart for deploying Micro on Kubernetess
     digest: 23872ab2fee4cb618ef9679d6fe9c7973941f03ca9f2b8542362de88d2a322ab
     name: micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.0.3/micro-1.0.3.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.0.3/micro-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-10-13T13:34:43.717542105Z"
-    description: A Helm chart for deploying Micro on Kubernete
+    description: A Helm chart for deploying Micro on Kubernetes
     digest: c1aeb67fcba11fcf0fcacf3d52f51c73a0628e158a11cdb2fed9893cb81eb0b7
     name: micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.0.2/micro-1.0.2.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.0.2/micro-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-10-12T12:53:07.852422129Z"
-    description: A Helm chart for deploying Micro on Kubernete
+    description: A Helm chart for deploying Micro on Kubernetes
     digest: 6402dc4043cd1896a5666105a65e47e75a32fc977eb55843e4a4a9022d187b06
     name: micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.0.1/micro-1.0.1.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.0.1/micro-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v2
     appVersion: 3.0.0
     created: "2020-10-09T15:24:39.968017945Z"
-    description: A Helm chart for deploying Micro on Kubernete
+    description: A Helm chart for deploying Micro on Kubernetes
     digest: 471cbce50303ef4c3b23c3125a124f37973e73e2c2104c5629aad1c587cb5b37
     name: micro
     type: application
     urls:
-    - https://github.com/micro/helm/releases/download/micro-1.0.0/micro-1.0.0.tgz
+    - https://github.com/micro-community/helm/releases/download/micro-1.0.0/micro-1.0.0.tgz
     version: 1.0.0
 generated: "2020-10-09T15:24:39.841998164Z"
