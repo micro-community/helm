@@ -10,9 +10,9 @@ keywords:
 - microservices
 - golang
 sources:
-- https://github.com/micro/micro
+- https://github.com/micro-community/micro
 icon: https://avatars2.githubusercontent.com/u/5161210
 maintainers:
-  - name: Micro Authors
+  - name: Micro Community Authors
     email: contact@micro.mu
     url: https://micro.mu/
